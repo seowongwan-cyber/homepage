@@ -1,0 +1,191 @@
+.category2-img {
+    background-image: url("../images/portfolio.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category2-img:hover .darkness{
+    opacity: 0.4;
+}
+.category2-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category3-img {
+    background-image: url("../images/portfolio2.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category3-img:hover .darkness{
+    opacity: 0.4;
+}
+.category3-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category4-img {
+    background-image: url("../images/portfolio3.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category4-img:hover .darkness{
+    opacity: 0.4;
+}
+.category4-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category5-img {
+    background-image: url("../images/portfolio4.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category5-img:hover .darkness{
+    opacity: 0.4;
+}
+.category5-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category6-img {
+    background-image: url("../images/portfolio5.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category6-img:hover .darkness{
+    opacity: 0.4;
+}
+.category6-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category7-img {
+    background-image: url("../images/portfolio6.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category7-img:hover .darkness{
+    opacity: 0.4;
+}
+.category7-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category8-img {
+    background-image: url("../images/portfolio7.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category8-img:hover .darkness{
+    opacity: 0.4;
+}
+.category8-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category9-img {
+    background-image: url("../images/portfolio8.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category9-img:hover .darkness{
+    opacity: 0.4;
+}
+.category9-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category10-img {
+    background-image: url("../images/portfolio9.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category10-img:hover .darkness{
+    opacity: 0.4;
+}
+.category10-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category11-img {
+    background-image: url("../images/portfolio10.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category11-img:hover .darkness{
+    opacity: 0.4;
+}
+.category11-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category12-img {
+    background-image: url("../images/portfolio11.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category12-img:hover .darkness{
+    opacity: 0.4;
+}
+.category12-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.category13-img {
+    background-image: url("../images/portfolio12.jpg");
+    background-size: cover;
+    height:400px;
+    width: 250px;
+}
+.category13-img:hover .darkness{
+    opacity: 0.4;
+}
+.category13-img:hover .font {
+    opacity:1;
+    transform:scale(1);
+}
+
+.sec-box1-img1{
+    background-image: url("../images/blog.jpg");
+    background-size: cover;
+    width: 800px;
+    height: 600px;
+    margin: -80px 180px 20px
+}
+
+.sec-box2-img2{
+    background-image: url("../images/blog1.jpg");
+    background-size: cover;
+    width: 800px;
+    height: 600px;
+    margin: -80px 180px 20px
+}
+
+.sec-box3-img3{
+    background-image: url("../images/blog1.jpg");
+    background-size: cover;
+    width: 800px;
+    height: 600px;
+    margin: -80px 180px 20px
+}
